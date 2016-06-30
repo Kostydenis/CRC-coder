@@ -1,0 +1,1 @@
+It's just a dummy text for testing im my awesome program which can do one thing - make CRC of something.
